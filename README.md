@@ -14,6 +14,7 @@ This program uses the MapQuest API to provide a user with instructions on how to
   
 # Screenshots
   * Directions, Distance, Time and Longitude from Los Angeles, CA to San Diego, CA
+  
   ![](images/screenshot-1.png)
   
   
